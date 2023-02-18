@@ -15,5 +15,5 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 Demo video can befound in the src or low quality gif before 
-![.](Demo.gif)
+![.](/src/Demo.gif)
 
