@@ -14,6 +14,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-Demo video can befound in the src or low quality gif before 
+Demo video can befound in the src/Demo.Mov in high qualty or low quality gif below 
 ![.](/src/Demo.gif)
 
